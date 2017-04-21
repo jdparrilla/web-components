@@ -1,0 +1,3 @@
+title: hello-world-component
+renderType: freemarker
+templateScript: /web-components-module/templates/components/hello-world-component.ftl

@@ -1,0 +1,12 @@
+title: web-components-page
+templateScript: /web-components-module/templates/pages/web-components-page.ftl
+renderType: freemarker
+dialog: web-components-module:pages/web-components-page
+visible: true
+areas:
+  main:
+    availableComponents:
+      hello-world-component:
+        id: web-components-module:components/hello-world-component
+      slideshow:
+        id: web-components-module:components/slideshow
